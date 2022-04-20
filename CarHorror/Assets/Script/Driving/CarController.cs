@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿// Still experimental - Refactor properly once playability is statisfying
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
