@@ -1,0 +1,18 @@
+{
+    "name": "AGFG.Driving",
+    "rootNamespace": "",
+    "references": [
+        "GUID:33b593b31bc28bf4687a96f75109537c",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:7df034c71039cc145afec9ea941f0322"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
